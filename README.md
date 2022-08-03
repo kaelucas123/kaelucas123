@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaelucas123
 - 👀 I’m interested in C# and outher languages.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Css, Html, Java Script.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me using my e-mail, kaeteodoro@gmail.com
 
