@@ -6,7 +6,6 @@
 ## Idiomas:
 - ### Português(Nativo) 
 - ### Inglês(Avançado) 
-- ### Espanhol(Trabalhando nisso)🔨
 
 </br>
 
